@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestingData>
+	<addCustomer>
+		<loginTest username="brighthamza9@yahoo.com" password="okey##0917"></loginTest>
+	</addCustomer>
+	
+	<addCustomer>
+		<createAccountTest accountname="Orisakwe Tochukwu"></createAccountTest>
+	</addCustomer>
+	
+	<suite>
+		<test_suite TCID="LoginTest" RunMode="Y"></test_suite>
+		<test_suite TCID="CreateAccountTest" RunMode="Y"></test_suite>
+	</suite>
+	
+	
+</TestingData>

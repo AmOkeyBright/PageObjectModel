@@ -1,0 +1,13 @@
+23/06/2019 13:53:59 DEBUG devpinoyLogger LOCATOR.properties file successfully loaded
+23/06/2019 13:53:59 DEBUG devpinoyLogger CONFIG.properties file successfully loaded
+23/06/2019 13:54:02 DEBUG devpinoyLogger chrome driver successfully launched
+23/06/2019 13:54:06 DEBUG devpinoyLogger Successfully navigated to http://zoho.com
+23/06/2019 13:54:09 DEBUG devpinoyLogger Clicking on: login_xpath
+23/06/2019 13:54:09 DEBUG devpinoyLogger Typing in: username_xpath.Data entered as brighthamza9@yahoo.com
+23/06/2019 13:54:09 DEBUG devpinoyLogger Typing in: password_xpath.Data entered as okey##0917
+23/06/2019 13:54:09 DEBUG devpinoyLogger Clicking on: submit_xpath
+23/06/2019 13:54:15 DEBUG devpinoyLogger Clicking on: crm_xpath
+23/06/2019 13:54:16 DEBUG devpinoyLogger Clicking on: accountsTab_xpath
+23/06/2019 13:54:16 DEBUG devpinoyLogger Clicking on: createAccount_xpath
+23/06/2019 13:54:17 DEBUG devpinoyLogger Typing in: accountName_xpath.Data entered as Orisakwe Tochukwu
+23/06/2019 13:54:19 DEBUG devpinoyLogger Execution Completed
