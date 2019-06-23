@@ -15,6 +15,7 @@ public class LoginTest extends BaseTest{
 	@Test(dataProviderClass=Utilities.class, dataProvider="dp")
 	public void loginTest(Hashtable<String, String> data) 
 	{
+		//Testing if changes are captured in git
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
 		login.loginIntoZoho(data.get("username"), data.get("password"));
