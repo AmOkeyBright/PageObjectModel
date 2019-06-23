@@ -8,7 +8,6 @@ public class AccountsPage extends Page{
 	
 	public CreateAccountPage goToCreateAccounts() 
 	{
-		//driver.findElement(By.xpath("//*[@id=\"submenu_Accounts\"]/button/lyte-yield")).click();
 		click("createAccount_xpath");
 		return new CreateAccountPage();
 	}
