@@ -16,7 +16,7 @@ public class LoginTest extends BaseTest{
 	public void loginTest(Hashtable<String, String> data) 
 	{
 		//Testing if changes are captured in git
-		//Worked perfectly fine
+		//Worked perfectly fine.....Using EGIT
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
 		login.loginIntoZoho(data.get("username"), data.get("password"));
